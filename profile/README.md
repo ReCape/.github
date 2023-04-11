@@ -3,8 +3,13 @@
 
 ## Feature Plans
 ☑ Authentication
+
 ☑ Sessions
+
 ☑ Cape Management
+
 ☐ Model Management
+
 ☐ Installation
+
 ☐ Client Executable
