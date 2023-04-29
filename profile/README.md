@@ -8,8 +8,8 @@
 
 ☑ Cape Management
 
-☐ Model Management
+☑ Model Management
 
-☐ Installation
+☑ Installation
 
 ☐ Client Executable
