@@ -12,10 +12,4 @@
 
 ☑ Installation
 
-☐ Client Executable
-
-    ☑ Windows
-    
-    ☐ Mac OS (Trying to get my hands on an updated Mac system)
-    
-    ☐ Linux (Haven't gotten to it yet)
+☑ Client
