@@ -11,3 +11,11 @@
 
 #### Archived failures
 - [Desktop Client](https://github.com/ReCape/ReCape-Client)
+
+### What's Next
+- Better error handling
+- Ban system
+- Multi language support and better string management
+
+### Join Us
+Want to help us? Send us an email at itsrecape@gmail.com, or just start developing and submit a pull request.
